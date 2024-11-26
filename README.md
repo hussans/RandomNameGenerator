@@ -8,7 +8,7 @@
 <br/>
 **Peer**: Thao Vang
 <br/>
-**Review**: Everything works. the layout is nice and clean. was not expecting a hero img for this project. have an array to keep track of previous names. everything looks good.
+**Review**: Everything works. the layout is nice and clean. Was not expecting a hero img for this project. Have an array to keep track of previous names. Everything looks good.
 <br/>
 <br/>
 **GitHub**: https://github.com/hussans/RandomNameGenerator
